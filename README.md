@@ -1,4 +1,4 @@
 # my-website
-This is not only README file
-Added this on Develop branch
+Dhairyasheel Sole
+Updated this on Develop branch
 
