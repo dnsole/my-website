@@ -1,4 +1,4 @@
 # my-website
-This is not only README file
-Added this on Develop branch
+This is only README file
+Updated in Main branch
 
